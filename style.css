@@ -1,0 +1,35 @@
+
+body{    
+    font-family: Arial; 
+}
+
+.circle1{
+    stroke: blue;
+    stroke-width:  4;
+    background-color:  #99fadc;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+.circle2{
+    stroke: green;
+    stroke-width:  4;
+    background-color:  #99fadc;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+.circle3{
+    stroke: purple;
+    stroke-width:  4;
+    background-color:  #99fadc;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+}
