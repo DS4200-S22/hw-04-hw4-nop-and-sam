@@ -4,7 +4,7 @@ body{
 }
 
 .circle1{
-    stroke: blue;
+    stroke: black;
     stroke-width:  4;
     background-color:  #99fadc;
     width: 300px;
