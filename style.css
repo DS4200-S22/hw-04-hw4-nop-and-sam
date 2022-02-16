@@ -3,6 +3,14 @@ body{
     font-family: Arial; 
 }
 
+.container {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
 .circle1{
     stroke: black;
     stroke-width:  4;
@@ -26,10 +34,16 @@ body{
 }
 
 .circle3{
-    stroke: purple;
+    stroke: black;
     stroke-width:  4;
     background-color:  #99fadc;
+    fill: lightpink;
+    opacity: 1;
     width: 300px;
     height: 300px;
+    margin: 10px;
+}
+
+button {
     margin: 10px;
 }
