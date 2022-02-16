@@ -3,22 +3,26 @@ body{
     font-family: Arial; 
 }
 
-.circle1-button{
+.circle1{
     stroke: black;
     stroke-width:  4;
     background-color:  #99fadc;
-    width: 300px;
-    height: 300px;
+    fill: lightblue;
+    width: 400px;
+    height: 400px;
     margin: 10px;
 }
 
 .circle2{
-    stroke: green;
-    stroke-width:  4;
+    stroke: none;
     background-color:  #99fadc;
+    fill: green;
     width: 300px;
     height: 300px;
     margin: 10px;
+} :hover {
+    stroke: black;
+    stroke-width:  4;
 }
 
 .circle3{
