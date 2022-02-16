@@ -20,7 +20,7 @@ body{
     width: 300px;
     height: 300px;
     margin: 10px;
-} :hover {
+} .circle2:hover {
     stroke: black;
     stroke-width:  4;
 }
@@ -31,9 +31,5 @@ body{
     background-color:  #99fadc;
     width: 300px;
     height: 300px;
-    margin: 10px;
-}
-
-button {
     margin: 10px;
 }

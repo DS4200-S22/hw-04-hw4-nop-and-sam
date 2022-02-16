@@ -7,4 +7,4 @@ function clickME() {
 
  const circle1 = document.getElementById("circle1");
 
- circle1.addEventListener("click", clickME);
+ circle1.addEventListener("click", clickME, true);
