@@ -25,8 +25,8 @@ body{
     stroke: none;
     background-color:  #99fadc;
     fill: green;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     margin: 10px;
 } .circle2:hover {
     stroke: black;
@@ -39,8 +39,8 @@ body{
     background-color:  #99fadc;
     fill: lightpink;
     opacity: 1;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     margin: 10px;
 }
 
